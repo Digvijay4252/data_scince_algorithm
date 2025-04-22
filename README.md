@@ -1,1 +1,1 @@
-# Data_scince_algorithm
+# data_scince_algorithm
